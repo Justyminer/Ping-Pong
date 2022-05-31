@@ -1,3 +1,4 @@
 # Ping-Pong
-a,d - control of left ping
-LEFT, Right - control of right ping
+w,s - control of left ping
+UP,DOWN - control of right ping
+This is a classic game Ping Pong.There are 2 players, that try to hit each other a ball.
